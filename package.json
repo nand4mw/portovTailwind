@@ -1,5 +1,7 @@
 {
   "devDependencies": {
+    "postcss": "^8.4.28",
+    "postcss-cli": "^10.1.0",
     "tailwindcss": "^3.3.3"
   },
   "name": "port-tailwind",
@@ -54,7 +56,6 @@
     "picomatch": "^2.3.1",
     "pify": "^2.3.0",
     "pirates": "^4.0.6",
-    "postcss": "^8.4.28",
     "postcss-import": "^15.1.0",
     "postcss-js": "^4.0.1",
     "postcss-load-config": "^4.0.1",
